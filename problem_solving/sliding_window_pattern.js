@@ -33,5 +33,3 @@ function maxSubArraySum_0n(arr, num){
     return max
 }
 
-console.log(maxSubArraySum_0n2([1,2,3,4,5,4,5,6,8,4], 3))
-console.log(maxSubArraySum_0n([1,2,3,4,5,4,5,6,8,4], 3))
