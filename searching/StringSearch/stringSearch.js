@@ -13,3 +13,11 @@ function stringSearch(text, pattern){
     }
     return count;
 }
+
+function stringSearch(text, pattern) {
+    let i = 0;
+    let j = 0;
+    while( i < text.length && j < text.pattern){
+        
+    }
+}
